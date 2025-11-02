@@ -1,0 +1,4 @@
+Summarize the following educational transcript into a concise summary highlighting the main concepts, important definitions, and actionable takeaways. Keep it short (3-6 sentences) and learner-focused.
+
+Transcript:
+{transcript}

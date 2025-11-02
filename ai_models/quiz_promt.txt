@@ -1,0 +1,4 @@
+From the following summary, generate multiple-choice questions (4 options each) that test comprehension and recall. Mark the correct option.
+
+Summary:
+{summary}
